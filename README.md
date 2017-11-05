@@ -5,7 +5,6 @@ aliot Direct connection demo
 //文件使用utf-8  不然会出现乱码
 //测试板子EMW3031_kit
 //您可以用命令创建一个helloworld工程，然后导入我的压缩包
-//https连接的代码全在组件sioiot_aliot_h文件夹下 
 //mqtt直连的代码在组件sioiot_aliot_z文件夹下
 //首先根据自己的套件数据到sioiot_conifg.h 里面去配置
 //因为集成了激活demo，如果需要测试的话需要到可以到 sioiot_activate.c 里面找到ceshi函数，修改对应参数
